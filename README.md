@@ -1,16 +1,26 @@
-### Hi there 👋
+# ¡Hola Mundo! 👋 Soy Liceth Olmos 👨‍💻
 
-<!--
-**liceth1006/liceth1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi espacio en GitHub! Soy una apasionada desarrolladora Full Stack con sede en Colombia, actualmente inmersa en el emocionante mundo de la ingeniería de software. Me encanta construir experiencias digitales innovadoras que impacten positivamente a los usuarios. 💻🌟
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Actualmente estoy ampliando mis conocimientos en Ingeniería de Software mientras realizo una pasantía en la Universidad Uniempresarial.
+- 🎓 Poseo un certificado en Diseño de Experiencia del Usuario (UX) otorgado por Google.
+- 💡 Estoy siempre en busca de nuevas oportunidades para aprender y crecer en el mundo del desarrollo web.
+
+## Tecnologías y Herramientas
+
+Aquí hay una lista de algunas de las tecnologías y herramientas con las que trabajo:
+
+- 💻 JavaScript
+- 🎨 CSS
+- 🌐 HTML
+- 🛠 Tailwind CSS
+- 🔧 Bootstrap
+- 🚀 Node.js
+- ⏭ Next.js
+- 🗃 MySQL
+- 🐙 GitHub
+
+¡Me encantaría colaborar contigo en proyectos emocionantes! No dudes en contactarme si quieres discutir ideas o trabajar juntos en algo genial. 😊
+
