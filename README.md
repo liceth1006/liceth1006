@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://previews.123rf.com/images/vectorfusionart/vectorfusionart2105/vectorfusionart210500465/171240451-procesamiento-de-c%C3%B3digo-inform%C3%A1tico-sobre-fondo-azul-tecnolog%C3%ADa-programaci%C3%B3n-y-concepto-de.jpg" alt="Portada del proyecto" style="width: 820px; height: 312px;">
+</div>
 # ¡Hola Mundo! 👋 Soy Liceth Olmos 👨‍💻
 
 ¡Bienvenido a mi espacio en GitHub! Soy una apasionada desarrolladora Full Stack con sede en Colombia, actualmente inmersa en el emocionante mundo de la ingeniería de software. Me encanta construir experiencias digitales innovadoras que impacten positivamente a los usuarios. 💻🌟
