@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="function greet() {.png" alt="Portada del proyecto" style="width: 820px; height: 312px;">
+  <img src="function greet() {.png" alt="Portada del proyecto" >
 </div>
 # ¡Hola Mundo! 👋 Soy Liceth Olmos 👨‍💻
 
