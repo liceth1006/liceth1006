@@ -1,7 +1,7 @@
 <div align="center">
   <img src="function greet() {.png" alt="Portada del proyecto" >
 </div>
-# ¡Hola Mundo! 👋 Soy Liceth Olmos 👨‍💻
+<h2 align="center"> ¡Hola Mundo! 👋 Soy Liceth Olmos 👨‍💻 </h2>
 
 ¡Bienvenido a mi espacio en GitHub! Soy una apasionada desarrolladora Full Stack con sede en Colombia, actualmente inmersa en el emocionante mundo de la ingeniería de software. Me encanta construir experiencias digitales innovadoras que impacten positivamente a los usuarios. 💻🌟
 
