@@ -4,7 +4,8 @@
 <h2 align="center"> ¡Hola Mundo! 👋 Soy Liceth Olmos 👨‍💻 </h2>
 
 ¡Bienvenido a mi espacio en GitHub! Soy una apasionada desarrolladora Full Stack con sede en Colombia, actualmente inmersa en el emocionante mundo de la ingeniería de software. Me encanta construir experiencias digitales innovadoras que impacten positivamente a los usuarios. 💻🌟
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/liceth-olmos/)
+
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Portada del proyecto" >
 
 
 
