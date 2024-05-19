@@ -21,7 +21,7 @@
   "
   onmouseover="this.style.backgroundColor='#45a049';" 
   onmouseout="this.style.backgroundColor='#4CAF50';">
-    Your Badge Text
+   Linkedin
   </div>
 </a>
 
