@@ -5,7 +5,7 @@
 
 ¡Bienvenido a mi espacio en GitHub! Soy una apasionada desarrolladora Full Stack con sede en Colombia, actualmente inmersa en el emocionante mundo de la ingeniería de software. Me encanta construir experiencias digitales innovadoras que impacten positivamente a los usuarios. 💻🌟
 
-<a href="https://your-link.com" style="text-decoration: none;">
+<a href="https:https://www.linkedin.com/in/liceth-olmos/" style="text-decoration: none;">
   <div style="
     display: inline-block;
     padding: 10px 20px;
