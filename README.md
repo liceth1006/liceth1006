@@ -16,7 +16,7 @@
 
 Soy una apasionada desarrolladora **Full Stack** con sede en Colombia, actualmente inmersa en el emocionante mundo de la **ingeniería de software**. Me encanta construir experiencias digitales innovadoras que impacten positivamente a los usuarios. 💻✨
 
-- 🚀 **Actualmente:** Ampliando mis conocimientos en Ingeniería de Software realizando una pasantía en la Universidad Uniempresarial.
+- 🚀 **Actualmente:** Estoy cursando el sexto semestre de la carrera de Ingeniería de Software.
 - 🎓 **Certificaciones:** Diseño de Experiencia del Usuario (UX) otorgado por Google.
 - 💡 **Objetivo:** Siempre en busca de nuevas oportunidades para aprender y crecer en el mundo del desarrollo web.
 
