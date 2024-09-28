@@ -48,10 +48,16 @@ Soy una apasionada desarrolladora **Full Stack** con sede en Colombia, actualmen
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liceth1006&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liceth1006&theme=radical&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liceth1006&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <!-- GitHub Stats con tema claro y sin bordes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=liceth1006&theme=light&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+
+  <!-- Top Lenguajes con tema claro y sin bordes -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liceth1006&theme=light&layout=compact&hide_border=true" alt="Top Languages" />
+
+  <!-- GitHub Streak con tema claro y sin bordes -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liceth1006&theme=light&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 ---
 
