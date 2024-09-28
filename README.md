@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url.com/portada.png" alt="Portada del proyecto" width="600"/>
+  <img src="function greet() {.png" alt="Portada del proyecto" >
 </div>
 
 <h1 align="center">¡Hola Mundo! 👋 Soy Liceth Olmos 👩‍💻</h1>
