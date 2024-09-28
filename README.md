@@ -54,6 +54,7 @@ Soy una apasionada desarrolladora **Full Stack** con sede en Colombia, actualmen
   <!-- Top Lenguajes con tema claro y sin bordes -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liceth1006&theme=light&layout=compact&hide_border=true" alt="Top Languages" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liceth1006&hide_progress=true)
   <!-- GitHub Streak con tema claro y sin bordes -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liceth1006&theme=light&hide_border=true" alt="GitHub Streak" />
 </div>
