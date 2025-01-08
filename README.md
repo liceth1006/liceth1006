@@ -51,11 +51,18 @@ Soy una apasionada **Desarrolladora Full Stack** de Colombia, actualmente dedica
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
----
-
 ## 🚀 Tecnologías Backend
+
+### Frameworks y Entornos
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</p>
+
+### Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ---
