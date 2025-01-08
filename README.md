@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ruta/a/tu/imagen.png" alt="Portada del proyecto" />
+   <img src="function greet() {.png" alt="Portada del proyecto" >
 </div>
 
 # ¡Hola Mundo! 👋 Soy Liceth Olmos 👩‍💻
