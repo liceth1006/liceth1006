@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="function greet() {.png" alt="Portada del proyecto" >
+  <img src="ruta/a/tu/imagen.png" alt="Portada del proyecto" />
 </div>
 
-<h1 align="center">¡Hola Mundo! 👋 Soy Liceth Olmos 👩‍💻</h1>
+# ¡Hola Mundo! 👋 Soy Liceth Olmos 👩‍💻
 
 <p align="center">
   <a href="https://www.linkedin.com/in/liceth-olmos/">
@@ -14,11 +14,13 @@
 
 ## 🌟 Sobre mí
 
-Soy una apasionada desarrolladora **Full Stack** con sede en Colombia, actualmente inmersa en el emocionante mundo de la **ingeniería de software**. Me encanta construir experiencias digitales innovadoras que impacten positivamente a los usuarios. 💻✨
+Soy una apasionada **Desarrolladora Full Stack** de Colombia, actualmente dedicada a la **ingeniería de software** y en constante aprendizaje. Mi enfoque está en construir aplicaciones web innovadoras y de alto rendimiento, que ofrezcan una excelente experiencia al usuario. 💻✨
 
-- 🚀 **Actualmente:** Estoy cursando el sexto semestre de la carrera de Ingeniería de Software.
-- 🎓 **Certificaciones:** Diseño de Experiencia del Usuario (UX) otorgado por Google.
-- 💡 **Objetivo:** Siempre en busca de nuevas oportunidades para aprender y crecer en el mundo del desarrollo web.
+- 🚀 **En este momento**: Cursando el sexto semestre de Ingeniería de Software.
+- 🎓 **Certificación**: Diseño de Experiencia del Usuario (UX) por Google.
+- 💡 **Meta**: Continuar explorando nuevas tecnologías y adquirir más experiencia en desarrollo web.
+
+---
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -33,7 +35,6 @@ Soy una apasionada desarrolladora **Full Stack** con sede en Colombia, actualmen
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
 </p>
 
 ### Diseño y Estilizado
@@ -50,13 +51,27 @@ Soy una apasionada desarrolladora **Full Stack** con sede en Colombia, actualmen
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-## 📈 Estadísticas de GitHub
+---
+
+## 🚀 Tecnologías Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
+</p>
+
+---
+
+## 📈 Mis Estadísticas de GitHub
 
 <div align="center">
-  <!-- GitHub Streak con tema claro y sin bordes -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liceth1006&theme=light&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 📫 ¡Conectemos!
+
+Si tienes alguna duda, propuesta o simplemente quieres conversar sobre tecnología, ¡no dudes en contactarme! Puedes hacerlo a través de [mi LinkedIn](https://www.linkedin.com/in/liceth-olmos/).
+
+---
+
+> “La tecnología es solo una herramienta. Las personas son el verdadero motor que hace que todo funcione”. 🚀
