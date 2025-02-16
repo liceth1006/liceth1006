@@ -74,6 +74,13 @@ Soy una apasionada **Desarrolladora Full Stack** de Colombia, actualmente dedica
 </div>
 
 ---
+---
+
+## 📈 Mis Proyectos
+
+- ✅ **roostertools:** https://roostertools.vercel.app/
+- ✅ **screenzip:** https://screenzip.vercel.app/
+---
 
 ## 📫 ¡Conectemos!
 
@@ -81,4 +88,4 @@ Si tienes alguna duda, propuesta o simplemente quieres conversar sobre tecnolog�
 
 ---
 
-> “La tecnología es solo una herramienta. Las personas son el verdadero motor que hace que todo funcione”. 🚀
+> "La tecnología es solo una herramienta. Las personas son el verdadero motor que hace que todo funcione." — Bill Gates 🚀
